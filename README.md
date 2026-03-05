@@ -79,6 +79,8 @@ Key performance metrics:
 
 - Validation Accuracy: ~88%
 - F1 Score: ~92%
+
+
 The results showed that color augmentation significantly improved model performance compared to geometric transformations. 
 
 Grad-CAM visualizations confirmed that the model focused on damaged regions of the drum when identifying non-reusable drums. 
