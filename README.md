@@ -18,8 +18,7 @@ Traditionally, companies rely on manual visual inspection, which is:
 
 The goal of this project was to develop an automated image classification system that can detect reusable cable drums and support sustainable recycling operations.
 
-The dataset was provided by Drumster, a cable drum recycling company based in Sweden. 
-
+The dataset cannot be shared due to company confidentiality. Code is available in this repository.
 # Data
 
 The dataset consisted of images of cable drums in two categories:
